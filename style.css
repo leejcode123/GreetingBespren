@@ -3,82 +3,81 @@ body{
   position: relative;
 }
 .balloons img{
-  height: 100px;
+  height: 30px;
   position: absolute;
 }
 .balloons img:nth-child(1){
-  left:10px;
   animation: move 10s 2s linear infinite;
 }
 .balloons img:nth-child(2){
-  left: 110px;
+  left: 30px;
   animation: move 15s 4s linear infinite;
 }
 .balloons img:nth-child(3){
-  left: 210px;
+  left: 60px;
   animation: move 18s 6s linear infinite;
 }
 .balloons img:nth-child(4){
-  left: 310px;
+  left: 90px;
   animation: move 20s 2s linear infinite;
 }
 .balloons img:nth-child(5){
-  left: 410px;
+  left: 120px;
   animation: move 12s 4s linear infinite;
 }
 .balloons img:nth-child(6){
-  left: 510px;
+  left: 150px;
   animation: move 21s 6s linear infinite;
 }
 .balloons img:nth-child(7){
-  left: 610px;
+  left: 180px;
   animation: move 10s 2s linear infinite;
 }
 .balloons img:nth-child(8){
-  left: 710px;
+  left: 210px;
   animation: move 10s 4s linear infinite;
 }
 .balloons img:nth-child(9){
-  left: 810px;
+  left: 240px;
   animation: move 17s 6s linear infinite;
 }
 .balloons img:nth-child(10){
-  left: 910px;
+  left:270px;
   animation: move 16s 2s linear infinite;
 }
 
 .balloons img:nth-child(11){
-  left: 1010px;
+  left: 300px;
   animation: move 16s 4s linear infinite;
 }
 
 .balloons img:nth-child(12){
-  left: 1110px;
+  left: 330px;
   animation: move 16s 6s linear infinite;
 }
 
 .balloons img:nth-child(13){
-  left: 1210px;
+  left: 360px;
   animation: move 16s 2s linear infinite;
 }
 
 .balloons img:nth-child(14){
-  left: 1310px;
+  left: 390px;
   animation: move 16s 4s linear infinite;
 }
 
 .balloons img:nth-child(15){
-  left: 1410px;
+  left: 420px;
   animation: move 16s 6s linear infinite;
 }
 
 .balloons img:nth-child(16){
-  left: 1510px;
+  left: 450px;
   animation: move 16s 2s linear infinite;
 }
 
 .balloons img:nth-child(17){
-  left: 1610px;
+  left: 480px;
   animation: move 16s 4s linear infinite;
 }
 
@@ -358,7 +357,7 @@ body {
 
 .text1{
   color: white;
-  font-size: 60px;
+  font-size: 30px;
   font-weight: 700;
   letter-spacing: 8px;
   margin-bottom: 20px;  
