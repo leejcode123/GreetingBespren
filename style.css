@@ -350,8 +350,8 @@ body {
 }
 
 .pic img{
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
 
 }
 
@@ -610,7 +610,7 @@ h2{
 
 .disclaimer{
 font-family:'Brush Script MT', cursive;
-font-size: 35px;
+font-size: 25px;
 position: relative;
 position: fixed; 
 bottom: 0;
